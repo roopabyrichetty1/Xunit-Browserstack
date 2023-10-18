@@ -1,0 +1,11 @@
+packages
+TestResults
+TestResult.xml
+
+obj
+.vs
+.DS_Store
+browserstack.err
+log
+local.log
+BrowserStackLocal.exe
