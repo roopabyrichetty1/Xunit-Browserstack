@@ -9,7 +9,7 @@
       "XUnit-BrowserStack/1.0.0": {
         "dependencies": {
           "BrowserStack.TestAdapter": "0.3.2",
-          "BrowserStackLocal": "2.0.0",
+          "BrowserStackLocal": "2.3.1",
           "Microsoft.NET.Test.Sdk": "17.1.0",
           "Newtonsoft.Json": "13.0.2",
           "Selenium.WebDriver": "4.14.1",
@@ -45,7 +45,7 @@
           }
         }
       },
-      "BrowserStackLocal/2.0.0": {
+      "BrowserStackLocal/2.3.1": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.2",
           "System.IO.FileSystem.AccessControl": "4.7.0"
@@ -1442,12 +1442,12 @@
       "path": "browserstack.testadapter/0.3.2",
       "hashPath": "browserstack.testadapter.0.3.2.nupkg.sha512"
     },
-    "BrowserStackLocal/2.0.0": {
+    "BrowserStackLocal/2.3.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-3BhdIQVODohTOh0UXqnfBnU7umek4rQPJHQgGIa9I+al27ETUK301mDKsOiyUME0J6Cv+UuAKP+4x0IcrzrEfg==",
-      "path": "browserstacklocal/2.0.0",
-      "hashPath": "browserstacklocal.2.0.0.nupkg.sha512"
+      "sha512": "sha512-gYxILcCZ74Xmrf1KAUsSBdxW0tiGBdFHc0h+vOKycxYbCHbNx0QA7hTBEWhOVh0Yvsv9HIemZki0Bv2fGM6w3A==",
+      "path": "browserstacklocal/2.3.1",
+      "hashPath": "browserstacklocal.2.3.1.nupkg.sha512"
     },
     "Lib.Harmony/2.3.0-prerelease.2": {
       "type": "package",
